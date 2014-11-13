@@ -69,7 +69,7 @@
     "browserify": "5.11.1",
     "coffee-script": "1.8.0",
     "cucumber-html": "0.2.3",
-    "gherkin": "https://github.com/FOODit/gherkin-js/tarball/7710ff7b3c4c1b5686ca3fa09b2e28bbe5100a43",
+	"gherkin": "2.12.2",
     "nopt": "3.0.1",
     "pogo": "0.9.4",
     "underscore": "1.7.0",
